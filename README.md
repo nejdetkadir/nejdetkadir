@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nejdetkadir&label=Profile%20views&color=0e75b6&style=flat" alt="nejdetkadir" /> </p>
 
-- 🌱 I’m currently learning **VueJS, NodeJS and MongoDB**
+- 🌱 I’m currently learning **Spring and Spring Boot**
 
 - 📫 How to reach me **nejdetkadir.550@gmail.com**
 
