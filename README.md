@@ -1,6 +1,9 @@
+<h3 align="center">A passionate backend developer from Turkey 🧑🏻‍💻</h3>
+
+<br>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-<h3 align="center">A passionate backend developer from Turkey</h3>
 
 ### Frontend  
 <div align="center">  
